@@ -1,0 +1,11 @@
+com\documentviewer\controller\MainController.class
+com\documentviewer\advice\MyGlobalExceptionHandler.class
+com\documentviewer\service\AuthorizationService.class
+com\documentviewer\constants\ApplicationConstant.class
+com\documentviewer\model\UploadFile.class
+com\documentviewer\service\impl\AuthorizationServiceImpl.class
+com\documentviewer\config\ApplicationConfig.class
+com\documentviewer\service\impl\GoogleDriveServiceImpl.class
+com\documentviewer\service\GoogleDriveService.class
+com\documentviewer\model\FileBean.class
+com\documentviewer\model\FolderBean.class

@@ -1,0 +1,16 @@
+body {
+	background-color: powderblue;
+}
+
+A {
+	text-decoration: none;
+	color: white;
+	font-size: larger;
+}
+
+label {
+	padding: 10px;
+	background: red;
+	display: table;
+	color: #fff;
+}
